@@ -1,6 +1,6 @@
 # Screen.rip
 
-Originally wrtten by Lakshan Perera (lakshan@laktek.com). This software is deprecated and no longer officially supported.
+Originally wrtten by Lakshan Perera (github.com/laktek). This software is deprecated and no longer officially supported.
 Use at your own risk.
 
 ## How to run
